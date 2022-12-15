@@ -24,6 +24,8 @@ nav:
   - Stories:
     - "Toon's Quest to Save the Infinite Yield Script": stories/toonsquesttosavetheinfiniteyieldscript.md
     - "Scott's Treasure Hunt": stories/scottstreasurehunt.md
+    - "Games and The Age": stories/gamesandtheage.md
+
 
 markdown_extensions:
   - admonition

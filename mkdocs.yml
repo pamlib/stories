@@ -1,0 +1,39 @@
+site_name: Stories
+site_url: https://pamlib.github.io/stories/
+repo_name: pamlib/stories
+repo_url: https://github.com/pamlib/stories
+
+theme:
+  name: material
+  language: en
+  custom_dir: docs/assets/overrides
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: slate
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Stories:
+    - "Toon's Quest to Save the Infinite Yield Script": stories/toonsquesttosavetheinfiniteyieldscript.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - meta
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      guess_lang: false

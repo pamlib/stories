@@ -23,6 +23,7 @@ nav:
   - Home: index.md
   - Stories:
     - "Toon's Quest to Save the Infinite Yield Script": stories/toonsquesttosavetheinfiniteyieldscript.md
+    - "Scott's Treasure Hunt": stories/scottstreasurehunt.md
 
 markdown_extensions:
   - admonition

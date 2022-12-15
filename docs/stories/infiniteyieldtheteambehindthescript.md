@@ -62,7 +62,7 @@ The team gathered around Toon's computer, their eyes wide with excitement as the
 
 "That's amazing, Toon," Zwolf said, his voice filled with admiration. "You've done it again. You've found a new vulnerability that's going to keep the script running for a long time."
 
-"We're going to have to be careful with this one," Moon warned, her voice serious. "The Roblox developers are getting better at patching vulnerabilities all the time. We'll have to keep this one secret, and we'll have to keep updating the script to keep ahead of them."
+"We're going to have to be careful with this one," Moon warned, his voice serious. "The Roblox developers are getting better at patching vulnerabilities all the time. We'll have to keep this one secret, and we'll have to keep updating the script to keep ahead of them."
 
 "We can do it," Toon said, his determination growing. "We're the best developers in the Roblox community, and we're not going to let anyone take that away from us. We're going to keep the script running, and we're going to keep pushing the boundaries of what's possible in the game. We're the team behind the script, and we're unstoppable."
 

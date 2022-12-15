@@ -1,5 +1,3 @@
-## Toon's Quest to Save the Infinite Yield Script
-
 *As a skilled developer, Toon is tasked with finding and fixing bugs in the Infinite Yield script. But when he discovers that the script is being used for nefarious purposes by some members of the Discord server, Toon must navigate the dangerous world of exploit development to stop the misuse and protect his own reputation. Can he succeed in his quest to save the script?*
 
 Toon was a skilled developer with a passion for code and a talent for finding and fixing bugs. He had been working on the Infinite Yield script for months, carefully combing through the complex code and identifying any issues that could cause problems.

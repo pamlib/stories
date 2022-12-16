@@ -57,3 +57,21 @@ As the months went by, they became more and more successful. They were regularly
 Finally, after years of hard work and dedication, they achieved their ultimate goal: becoming the undisputed champions of Bomb Island.
 
 They had come a long way since their first tentative steps in the game, and they were proud of all that they had accomplished. They knew that they had achieved something truly special, and they would always look back on their journey with fondness and pride.
+
+As Scott, Nate, and Shawn sat in their living room, reminiscing about their days as the champions of Bomb Island, they couldn't help but feel a sense of nostalgia.
+
+It had been several years since they had played the game, and a lot had changed in their lives. They had all graduated from college and were now working full-time jobs, with little time to spare for gaming.
+
+But despite the passing of time, they knew that they would always have a special place in their hearts for Bomb Island. It had brought them together and had given them some of the most memorable experiences of their lives.
+
+"Remember that time when we were in the middle of a tournament and the power went out?" chuckled Scott, shaking his head. "We were all freaking out, thinking that we were going to lose, but somehow we managed to pull it off."
+
+"And what about that time when we were playing on the beach and a seagull swooped down and stole Shawn's sandwich right out of his hand?" laughed Nate. "That was so random."
+
+"Yeah, those were some good times," said Shawn, smiling. "I miss playing Bomb Island with you guys."
+
+"Me too," said Scott and Nate in unison.
+
+Despite their busy schedules, the three friends made a pact to try and find time to play the game together again. They knew that it wouldn't be the same as it was before, but they were excited to relive some of the memories and create new ones.
+
+As they sat there, lost in thought, they knew that no matter where life took them, they would always have their bond as Bomb Island champions to keep them connected. The end.

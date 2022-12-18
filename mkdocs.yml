@@ -33,6 +33,9 @@ nav:
     - "The Infinite Library": stories/theinfinitelibrary.md
     - "The Space-Time Crystal": stories/thespacetimecrystal.md
     - "The Arcane Order": stories/thearcaneorder.md
+    - "The Persistent Door":
+      - Entry: stories/thepersistentdoorentry.md
+      - Expanded: stories/thepersistentdoorexpanded.md
 
 
 markdown_extensions:

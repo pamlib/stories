@@ -36,6 +36,7 @@ nav:
     - "The Persistent Door":
       - "SCP Entry": stories/thepersistentdoorentry.md
       - "Story Expanded": stories/thepersistentdoorexpanded.md
+    - "Countdown to Catastrophe": stories/countdowntocatastrophe.md
 
 
 markdown_extensions:

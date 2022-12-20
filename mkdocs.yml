@@ -37,6 +37,7 @@ nav:
       - "SCP Entry": stories/thepersistentdoorentry.md
       - "Story Expanded": stories/thepersistentdoorexpanded.md
     - "Countdown to Catastrophe": stories/countdowntocatastrophe.md
+    - "The Haunted House on the Corner": stories/thehauntedhouseonthecorner.md
 
 
 markdown_extensions:

@@ -39,6 +39,7 @@ nav:
     - "Countdown to Catastrophe": stories/countdowntocatastrophe.md
     - "The Haunted House on the Corner": stories/thehauntedhouseonthecorner.md
     - "The Discord Chat Leak": stories/thediscordchatleak.md
+    - "Oracle's Infinite Library": stories/oraclesinfinitelibrary.md
 
 
 markdown_extensions:
